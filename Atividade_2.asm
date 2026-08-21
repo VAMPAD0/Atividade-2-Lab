@@ -14,7 +14,7 @@ a: .word 6
 b: .word 15
 m: .word 0
 
-valores de m quando o a e o b forem:
-a = 06 || b = 15 || m = f7 (-9)
-a = 14 || b = 07 || m = 07
-a = 25 || b = 12 || m = 0d (13)
+#valores de m quando o a e o b forem:
+#a = 06 || b = 15 || m = f7 (-9)
+#a = 14 || b = 07 || m = 07
+#a = 25 || b = 12 || m = 0d (13)
