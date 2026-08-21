@@ -10,3 +10,9 @@ halt
 a: .word 14
 b: .word 7
 m: .word 0
+
+
+valores de m quando o a e o b forem:
+a = 06 || b = 15 -> m = 6
+a = 14 || b = 07 -> m = 15
+a = 25 || b = 12 -> m = 25
